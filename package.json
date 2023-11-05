@@ -1,0 +1,26 @@
+{
+  "name": "node-stream-example",
+  "version": "1.0.0",
+  "description": "Example of using nodejs stream",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eslepova/node-stream-example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "stream"
+  ],
+  "author": "Ekaterina Slepova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eslepova/node-stream-example/issues"
+  },
+  "homepage": "https://github.com/eslepova/node-stream-example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

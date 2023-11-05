@@ -1,2 +1,3 @@
 # node-stream-example
-example of using nodejs streams
+
+npm run start
